@@ -47,9 +47,6 @@ func main() {
 	ac := LoadAppConfig(*configf)
 	ac.sendTestEmail()
 	reportChannel := make(chan *Data, 32)
-	var test Data
-	test.BeaconAddress = ":D"
-	reportChannel <- &test
 
 	r := initRouter(reportChannel)
 	// Run in the background
