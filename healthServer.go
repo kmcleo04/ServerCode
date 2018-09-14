@@ -43,6 +43,7 @@ var questions []string
 
 func main() {
 	configf := flag.String("config-file", "app.cfg", "The file to use for config")
+	flag.Parse()
 	ac := LoadAppConfig(*configf)
 	ac.sendTestEmail()
 	reportChannel := make(chan *Data, 32)
