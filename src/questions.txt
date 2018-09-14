@@ -1,0 +1,37 @@
+When did you go to bed last night?
+How long did you spend in bed last night?
+How many hours of sleep did you get last night?
+Last night, did you get to sleep within 30 minutes?
+Last night, did you wake up in the middle of the night?
+Last night, did you get up to use the bathroom?
+Last night, did you have trouble breathing properly?
+Last night, did you cough or snore loudly?
+Last night, did you feel too cold?
+Last night, did you feel too hot?
+Last night, did you have bad dreams?
+Last night, did you have pain?
+How would you rate last night's sleep overall?
+Last night, did you take any type of medication to help you sleep?
+Did you have trouble staying awake in the past 24 hours?
+Did you have trouble keeping enthusiasm to get things done in the past 24 hours?
+Do you feel tired out for no good reason?
+Do you feel nervous?
+Do you feel so nervous that nothing could calm you down?
+Do you feel hopeless?
+Do you feel restless or fidgety?
+Do you feel so restless you can not sit still?
+Do you feel depressed?
+Do you feel that everything is an effort?
+Do you feel so sad that nothing can cheer you up?
+Do you feel worthless?
+Are you upset because of something that happened unexpectedly?
+Do you feel that you are unable to control the important things in your life?
+Do you feel stressed?
+Do you feel confident about your ability to handle your personal problems?
+Do you feel that things are going your way?
+Do you feel that you can not cope with all the things that you have to do?
+Do you feel you are able to control irritations in your life?
+Do you feel that you are on top of things?
+Do you feel angered because of things that are outside of your control?
+Do you feel difficulties are piling up so high that you could not overcome them?
+How many people are around you right now?
